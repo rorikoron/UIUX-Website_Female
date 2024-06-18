@@ -48,7 +48,7 @@
     top: 4.12%;
     bottom: 45.34%;
 
-    background: rgba(159, 51, 224, 0.3);
+    background: #E5683280;
     backdrop-filter: blur(25px);
 }
 #crcl3{
@@ -58,7 +58,7 @@
     top: 13.08%;
     bottom: 47.67%;
     
-    background: rgba(51, 79, 224, 0.3);
+    background: #C02B4F80;
     backdrop-filter: blur(25px);
 }
 #crcl4{
@@ -68,7 +68,7 @@
     top: 36.56%;
     bottom: 24.37%;
     
-    background: rgba(224, 155, 51, 0.3);
+    background: #FFF50054;
     backdrop-filter: blur(25px);
 }
 #crcl5{
