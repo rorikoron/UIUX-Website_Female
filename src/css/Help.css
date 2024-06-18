@@ -15,6 +15,7 @@
   padding: 16px 0;
   font-weight: 700;
   font-size: 5.8rem;
+  font-family: "Noto Serif", sans-serif;
 }
 .content_expl {
   padding: 16px 0;
@@ -52,7 +53,7 @@
   right: 41.83%;
   top: 4.12%;
   bottom: 45.34%;
-  background: rgba(159, 51, 224, 0.3);
+  background: #E0D9334d;
   backdrop-filter: blur(25px);
 }
 .decoration #crcl3 {
@@ -61,7 +62,7 @@
   right: 18.45%;
   top: 13.08%;
   bottom: 47.67%;
-  background: rgba(51, 79, 224, 0.3);
+  background: #E0B0334d;
   backdrop-filter: blur(25px);
 }
 .decoration #crcl4 {
@@ -70,7 +71,7 @@
   right: 1.58%;
   top: 36.56%;
   bottom: 24.37%;
-  background: rgba(224, 155, 51, 0.3);
+  background: #E09B334d;
   backdrop-filter: blur(25px);
 }
 .decoration #crcl5 {
@@ -79,7 +80,7 @@
   right: 0%;
   top: 0%;
   bottom: 60.75%;
-  background: rgba(51, 224, 162, 0.3);
+  background: #33E0A24d;
   backdrop-filter: blur(25px);
 }
 .decoration #crcl2 {
@@ -88,6 +89,6 @@
   right: 40.07%;
   top: 48.57%;
   bottom: 0%;
-  background: rgba(51, 79, 224, 0.3);
+  background: #FF5C004d;
   backdrop-filter: blur(25px);
 }/*# sourceMappingURL=Help.css.map */

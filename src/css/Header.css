@@ -4,11 +4,11 @@
 
 html {
   font-size: 8.4px !important;
-  color: rgb(73, 28, 28);
+  color: #252221;
 }
 
 body {
-  background-color: rgb(255, 236, 228);
+  background-color: #E7E4DE;
   height: 100vh;
   max-width: 100vw;
   position: relative;
